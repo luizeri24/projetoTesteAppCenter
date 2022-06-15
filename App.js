@@ -3,10 +3,11 @@ import {View, Text} from 'react-native';
 import Analytics from 'appcenter-analytics';
 
 const App = () => {
-  Analytics.trackEvent('Acesso a tela home');
+  Analytics.trackEvent('Daniela linda');
   return (
     <View>
       <Text>Olá mundo</Text>
+      <Text>Eu amo a Daniela</Text>
     </View>
   );
 };
