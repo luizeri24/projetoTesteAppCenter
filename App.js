@@ -3,7 +3,7 @@ import {View, Text} from 'react-native';
 import Analytics from 'appcenter-analytics';
 
 const App = () => {
-  Analytics.trackEvent('Daniela linda');
+  Analytics.trackEvent('Alouuuuuuuuuuuuuuuuuuuuuuuu');
   return (
     <View>
       <Text>Olá mundo</Text>
