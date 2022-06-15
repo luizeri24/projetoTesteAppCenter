@@ -7,7 +7,7 @@ const App = () => {
   return (
     <View>
       <Text>Olá mundo</Text>
-      <Text>Eu amo a Daniela</Text>
+      <Text>Eu amo a Daniela123</Text>
     </View>
   );
 };
